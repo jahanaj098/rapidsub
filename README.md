@@ -20,4 +20,4 @@ This is a Bash script for enumerating subdomains from [RapidDNS.io](https://rapi
    git clone https://github.com/jahanaj098/rapiddns-subdomain-enumerator.git
    cd rapiddns-subdomain-enumerator
    chmod +x rapdisub.sh
-   ./rapdisub.sh
+   bash rapdisub.sh
